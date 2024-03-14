@@ -93,12 +93,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sixwizard/auth0-spa-js.git"
+    "url": "git://github.com/haroldreed773/cutter-until-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/sixwizard/auth0-spa-js/issues"
+    "url": "https://github.com/haroldreed773/cutter-until-lib/issues"
   },
-  "homepage": "https://github.com/sixwizard/auth0-spa-js#readme",
+  "homepage": "https://github.com/haroldreed773/cutter-until-lib#readme",
   "keywords": [
     "auth0",
     "login",
