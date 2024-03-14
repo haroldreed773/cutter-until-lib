@@ -1,6 +1,6 @@
 {
   "author": "Six Liu",
-  "name": "@aaxis/auth0-spa-js",
+  "name": "@sixwizard/cutter-until-lib",
   "description": "Auth0 SDK for Single Page Applications using Authorization Code Grant Flow with PKCE",
   "license": "MIT",
   "version": "1.0.5",
